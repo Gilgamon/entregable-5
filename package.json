@@ -1,0 +1,17 @@
+{"name": "entregable-nodejs-5",
+  "version": "1.0.0",
+  "description": "entregable numero 5 del curso nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ./src/app.js"
+  },
+  "keywords": [],
+  "author": "MAB",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "socket.io": "^4.7.2"
+  }
+}
